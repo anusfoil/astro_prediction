@@ -1,0 +1,11 @@
+Database
+__pychache__
+venv
+.idea
+*.xml
+*.db
+*.json
+*.xlsx
+*.log
+*.ini
+*.txt
